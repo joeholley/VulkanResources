@@ -40,10 +40,17 @@ This is mainly filled with Powerpoint presentations :(.
 
 http://nextgenapis.realtimerendering.com/
 
+### Sample Code
+
+* [C++ Examples ](https://github.com/SaschaWillems/Vulkan)
+* NVidia Examples
+  * ["Simple" Example](https://github.com/nvpro-samples/gl_vk_chopper)
+  * [Rendering 3D With 'worker-threads'](https://github.com/nvpro-samples/gl_vk_bk3dthreaded)
+  * [Vulkan sample showing a high quality super-sampled rendering](https://github.com/nvpro-samples/gl_vk_supersampled)
+  * [Vulkan & OpenGL Threaded CAD Scene Sample ](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) (Blog Post)
 
 ### More Resources
-
 * [Vulkan Quickreference (PDF)](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
 * [Vulkan Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html)
-* [C++ Examples ](https://github.com/SaschaWillems/Vulkan)
 * [Awsome Vulkan](Awesome Vulkan)
+
