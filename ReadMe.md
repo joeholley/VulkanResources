@@ -43,6 +43,7 @@ http://nextgenapis.realtimerendering.com/
 ### Sample Code
 
 * [C++ Examples ](https://github.com/SaschaWillems/Vulkan) by Sascha Willems
+* [C++ Examples](https://github.com/LunarG/VulkanSamples) from LunarG
 * NVidia Examples
   * ["Simple" Example](https://github.com/nvpro-samples/gl_vk_chopper)
   * [Rendering 3D With 'worker-threads'](https://github.com/nvpro-samples/gl_vk_bk3dthreaded)
