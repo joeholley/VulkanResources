@@ -56,6 +56,16 @@ http://nextgenapis.realtimerendering.com/
 * [Spinning Vulkan Cube in C](https://github.com/krh/vkcube) by Kristian Høgsberg
 * [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs)
 
+### Language Bindings
+* [C++](https://github.com/nvpro-pipeline/vkcpp)
+* C#/F#/Visual Basic
+  * [SharpVulkan](https://github.com/jwollen/SharpVulkan)
+  * [Mono](https://github.com/mono/VulkanSharp)
+* [Haskell](https://github.com/expipiplus1/vulkan)
+* [D](https://github.com/expipiplus1/vulkan)
+* [Common Lisp](https://github.com/3b/cl-vulkan)
+* [Julia](https://github.com/JuliaGPU/Vulkan.jl)
+
 ### More Resources
 * [Vulkan Quickreference (PDF)](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
 * [Vulkan Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html)
