@@ -42,15 +42,16 @@ http://nextgenapis.realtimerendering.com/
 
 ### Sample Code
 
-* [C++ Examples ](https://github.com/SaschaWillems/Vulkan)
+* [C++ Examples ](https://github.com/SaschaWillems/Vulkan) by Sascha Willems
 * NVidia Examples
   * ["Simple" Example](https://github.com/nvpro-samples/gl_vk_chopper)
   * [Rendering 3D With 'worker-threads'](https://github.com/nvpro-samples/gl_vk_bk3dthreaded)
   * [Vulkan sample showing a high quality super-sampled rendering](https://github.com/nvpro-samples/gl_vk_supersampled)
   * [Vulkan & OpenGL Threaded CAD Scene Sample ](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) (Blog Post)
+* [Spinning Vulkan Cube in C](https://github.com/krh/vkcube) by Kristian Høgsberg
 
 ### More Resources
 * [Vulkan Quickreference (PDF)](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
 * [Vulkan Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html)
-* [Awsome Vulkan](Awesome Vulkan)
+* [Awsome Vulkan](Awesome Vulkan) (Lots of Links)
 
