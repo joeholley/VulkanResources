@@ -24,6 +24,10 @@ Fabian Giesen](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graph
 
 Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_newbies_explain_the_things/d14551a
 
+### A Brief Overview of Vulkan API
+
+https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
+
 ### Vulkan API Overview by [ Henri Tuhola.](http://boxbase.org/entries/2014/jul/28/about-the-author/)
 
 * [Clear the Screen](http://boxbase.org/entries/2016/feb/22/vulkan-api-overview/)
@@ -50,6 +54,7 @@ http://nextgenapis.realtimerendering.com/
   * [Vulkan sample showing a high quality super-sampled rendering](https://github.com/nvpro-samples/gl_vk_supersampled)
   * [Vulkan & OpenGL Threaded CAD Scene Sample ](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) (Blog Post)
 * [Spinning Vulkan Cube in C](https://github.com/krh/vkcube) by Kristian Høgsberg
+* [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs)
 
 ### More Resources
 * [Vulkan Quickreference (PDF)](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
