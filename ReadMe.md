@@ -30,9 +30,20 @@ Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_new
 * [Draw Primitives](http://boxbase.org/entries/2016/feb/29/vulkan-api-overview-2/)
 * [Pipeline Barriers](http://boxbase.org/entries/2016/mar/7/vulkan-api-overview-3/)
 
+### Vukan in 30 minutes
+
+https://renderdoc.org/vulkan-in-30-minutes.html
+
+### Siggraph 2015 - An Overview of Next-Generation Graphics API
+
+This is mainly filled with Powerpoint presentations :(.
+
+http://nextgenapis.realtimerendering.com/
+
 
 ### More Resources
 
+* [Vulkan Quickreference (PDF)](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
 * [Vulkan Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html)
 * [C++ Examples ](https://github.com/SaschaWillems/Vulkan)
 * [Awsome Vulkan](Awesome Vulkan)
