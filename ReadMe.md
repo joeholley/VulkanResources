@@ -2,6 +2,8 @@ This is a list of resources related to learning Vulkan that I've come across.
 
 ### For those who know nothing:
 
+This links in this section up you understand the GPU in detail
+
 [A Trip Through the Pipeline by 
 Fabian Giesen](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 
