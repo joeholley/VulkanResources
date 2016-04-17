@@ -79,5 +79,5 @@ http://nextgenapis.realtimerendering.com/
 ### More Resources
 * [Vulkan Quickreference (PDF)](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
 * [Vulkan Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html)
-* [Awsome Vulkan](Awesome Vulkan) (Lots of Links)
+* [Awsome Vulkan](https://github.com/vinjn/awesome-vulkan) (Lots of Links)
 
