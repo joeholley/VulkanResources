@@ -24,6 +24,12 @@ Fabian Giesen](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graph
 
 Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_newbies_explain_the_things/d14551a
 
+### API Without Secrets: Introduction to Vulkan by Pawel L.
+[Part 0](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-preface)
+[Part1 ](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
+[Part 2](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
+[Part 3](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
+
 ### A Brief Overview of Vulkan API
 
 https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
