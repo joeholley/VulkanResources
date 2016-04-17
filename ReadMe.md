@@ -65,6 +65,8 @@ http://nextgenapis.realtimerendering.com/
   * [Vulkan & OpenGL Threaded CAD Scene Sample ](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) (Blog Post)
 * [Spinning Vulkan Cube in C](https://github.com/krh/vkcube) by Kristian Høgsberg
 * [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs)
+* [Google Android Samples](https://github.com/googlesamples/android-vulkan-tutorials)
+* [Google Samples](https://github.com/googlesamples/vulkan-basic-samples)  Currently just LunarG samples
 
 ### Language Bindings
 * [C++](https://github.com/nvpro-pipeline/vkcpp)
