@@ -67,6 +67,7 @@ http://nextgenapis.realtimerendering.com/
 * [Vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs)
 * [Google Android Samples](https://github.com/googlesamples/android-vulkan-tutorials)
 * [Google Samples](https://github.com/googlesamples/vulkan-basic-samples)  Currently just LunarG samples
+* [VKTS Samples (C++)](https://github.com/McNopper/Vulkan) Vulkan examples using VulKan ToolS (VKTS)
 
 ### Language Bindings
 * [C++](https://github.com/nvpro-pipeline/vkcpp)
