@@ -44,6 +44,17 @@ https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
 * [Draw Primitives](http://boxbase.org/entries/2016/feb/29/vulkan-api-overview-2/)
 * [Pipeline Barriers](http://boxbase.org/entries/2016/mar/7/vulkan-api-overview-3/)
 
+### Vulkan API Tutorial Video series by Niko Kauppi - Visual Studio/C++ (Github Repository)[https://github.com/Niko40/Vulkan-API-Tutorials]
+* [Play List](https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P)
+* [Getting started with vulkan code](https://www.youtube.com/watch?v=wHt5wcxIPcE)
+* [New Project, Instance and Device](https://www.youtube.com/watch?v=YhQZYnpFX_0)
+* [Debugging & Layers](https://www.youtube.com/watch?v=raXIWyWBv2I)
+* [Recap and SDK](https://www.youtube.com/watch?v=OeERUoJaw9o)
+* [Command Buffers and Syncrhonization](https://www.youtube.com/watch?v=Bu581jeyTL0)
+* [Window](https://www.youtube.com/watch?v=J87M6HdcjS0)
+* [Window Surface](https://www.youtube.com/watch?v=36Zj8fa3iyg)
+
+
 ### Vukan in 30 minutes
 
 https://renderdoc.org/vulkan-in-30-minutes.html
@@ -58,6 +69,7 @@ http://nextgenapis.realtimerendering.com/
 
 * [C++ Examples ](https://github.com/SaschaWillems/Vulkan) by Sascha Willems
 * [C++ Examples](https://github.com/LunarG/VulkanSamples) from LunarG
+* [C++ Examples](https://github.com/Z80Fan/VulkanDemos) by Z80Fan
 * NVidia Examples
   * ["Simple" Example](https://github.com/nvpro-samples/gl_vk_chopper)
   * [Rendering 3D With 'worker-threads'](https://github.com/nvpro-samples/gl_vk_bk3dthreaded)
