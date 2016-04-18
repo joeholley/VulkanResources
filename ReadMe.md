@@ -44,7 +44,7 @@ https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
 * [Draw Primitives](http://boxbase.org/entries/2016/feb/29/vulkan-api-overview-2/)
 * [Pipeline Barriers](http://boxbase.org/entries/2016/mar/7/vulkan-api-overview-3/)
 
-### Vulkan API Tutorial Video series by Niko Kauppi - Visual Studio/C++ (Github Repository)[https://github.com/Niko40/Vulkan-API-Tutorials]
+### Vulkan API Tutorial Video series by Niko Kauppi - Visual Studio/C++ [Github Repository](https://github.com/Niko40/Vulkan-API-Tutorials)
 * [Play List](https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P)
 * [Getting started with vulkan code](https://www.youtube.com/watch?v=wHt5wcxIPcE)
 * [New Project, Instance and Device](https://www.youtube.com/watch?v=YhQZYnpFX_0)
