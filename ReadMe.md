@@ -42,6 +42,14 @@ Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_new
   * [Command Buffers & Render Pass/Subpass - Bill Licea-Kane - Qualcomm](https://youtu.be/HM8vYJQtHpA?t=1h1m13s)
   * [Keeping your GPU fed - Tobias Hector - Imagination](https://youtu.be/HM8vYJQtHpA?t=1h29m14s)
 * [Vulkan Part 2](https://www.youtube.com/watch?v=xXyZ4YaktyU)
+  * [Vulkan WSI/Swapchains - Alon Or-bach - Samsung](https://youtu.be/EX1RKhlOYmY?t=10s) 
+  * [LunarG SDK - Karan Ghavam - LunarG](https://youtu.be/EX1RKhlOYmY?t=17m53s)
+  * [A Next Gen Engine Design - Dan Baker - Oxide Games](https://youtu.be/EX1RKhlOYmY?t=42m27s)
+  * [Performance Lessons Porting Source 2 Engine to Vulkan - Dan Ginsberg - Valve](https://youtu.be/EX1RKhlOYmY?t=1h14m31s)
+  * [Vulan does Retro - libRetro - Hans-Kristian Arntzen](https://youtu.be/EX1RKhlOYmY?t=1h41m13s)
+  * [Porting Cinder to Vulkan- Hai Nguyen - Google - Art Copy and Code Project](https://youtu.be/EX1RKhlOYmY?t=1h49m54s)
+  * [GFXBench 5- Gergely Juhasz - Kishonti](https://youtu.be/EX1RKhlOYmY?t=2h3m3s)
+  * [Comparing Vulkan to OpenGL ES - Barthold Lichtenbelt - NVIDIA](https://youtu.be/EX1RKhlOYmY?t=2h9m20s)
 
 ### A Brief Overview of Vulkan API
 
