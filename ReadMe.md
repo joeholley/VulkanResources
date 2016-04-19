@@ -37,6 +37,10 @@ Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_new
 ### GDC 2016 Presentation Video
 
 * [Vulkan Part 1](https://www.youtube.com/watch?v=HM8vYJQtHpA)
+  * [Vulkan Design Philosiphy - Jeff Bolz - Nivida](https://youtu.be/HM8vYJQtHpA?t=15m2s)
+  * [Memory Allocation - Grahm Sellers - AMD](https://youtu.be/HM8vYJQtHpA?t=35m51s)
+  * [Command Buffers & Render Pass/Subpass - Bill Licea-Kane - Qualcomm](https://youtu.be/HM8vYJQtHpA?t=1h1m13s)
+  * [Keeping your GPU fed - Tobias Hector - Imagination](https://youtu.be/HM8vYJQtHpA?t=1h29m14s)
 * [Vulkan Part 2](https://www.youtube.com/watch?v=xXyZ4YaktyU)
 
 ### A Brief Overview of Vulkan API
