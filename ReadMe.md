@@ -28,7 +28,7 @@ Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_new
 * [Book](https://www.gitbook.com/book/harrylovescode/vulkan-api/details)
 * [GitHub](https://github.com/HarryLovesCode/Vulkan-API-Book)
 
-### API Without Secrets: Introduction to Vulkan by Pawel L.
+### API Without Secrets: Introduction to Vulkan by Pawel Lapinski [Github](https://github.com/GameTechDev/IntroductionToVulkan)
 * [Part 0](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-preface)
 * [Part 1](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
 * [Part 2](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
@@ -96,6 +96,7 @@ http://nextgenapis.realtimerendering.com/
 * [Google Android Samples](https://github.com/googlesamples/android-vulkan-tutorials)
 * [Google Samples](https://github.com/googlesamples/vulkan-basic-samples)  Currently just LunarG samples
 * [VKTS Samples (C++)](https://github.com/McNopper/Vulkan) Vulkan examples using VulKan ToolS (VKTS)
+* [C SDL2 Window](https://github.com/corngood/SDL_vulkan)
 
 ### Language Bindings
 * [C++](https://github.com/nvpro-pipeline/vkcpp)
@@ -106,6 +107,9 @@ http://nextgenapis.realtimerendering.com/
 * [D](https://github.com/ColonelThirtyTwo/dvulkan)
 * [Common Lisp](https://github.com/3b/cl-vulkan)
 * [Julia](https://github.com/JuliaGPU/Vulkan.jl)
+* [Rust](https://github.com/tomaka/vulkano)
+* [Go](https://github.com/vulkan-go/vulkan)
+* [C++ GPGPU lib](https://github.com/alexhultman/libvc)
 
 ### More Resources
 * [Vulkan Quickreference (PDF)](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
