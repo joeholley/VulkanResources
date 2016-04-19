@@ -34,6 +34,11 @@ Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_new
 * [Part 2](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
 * [Part 3](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
 
+### GDC 2016 Presentation Video
+
+* [Vulkan Part 1](https://www.youtube.com/watch?v=HM8vYJQtHpA)
+* [Vulkan Part 2](https://www.youtube.com/watch?v=xXyZ4YaktyU)
+
 ### A Brief Overview of Vulkan API
 
 https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
