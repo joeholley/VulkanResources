@@ -97,6 +97,7 @@ http://nextgenapis.realtimerendering.com/
 * [Google Samples](https://github.com/googlesamples/vulkan-basic-samples)  Currently just LunarG samples
 * [VKTS Samples (C++)](https://github.com/McNopper/Vulkan) Vulkan examples using VulKan ToolS (VKTS)
 * [C SDL2 Window](https://github.com/corngood/SDL_vulkan)
+* [Android PowerVR](https://imgtec.com/tools/powervr-early-access-program/) - requires registration.
 
 ### Language Bindings
 * [C++](https://github.com/nvpro-pipeline/vkcpp)
@@ -116,4 +117,10 @@ http://nextgenapis.realtimerendering.com/
 * [Vulkan Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html)
 * [Awsome Vulkan](https://github.com/vinjn/awesome-vulkan) (Lots of Links)
 * [Khronous.org](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md)
+
+### Companies support Vulkan
+* [NVidia](https://developer.nvidia.com/Vulkan)
+* [AMD](http://www.amd.com/en-us/innovations/software-technologies/technologies-gaming/vulkan#)
+* [Intel](https://software.intel.com/en-us/videos/vulkan-on-intel-graphics-at-gdc-2016)
+* [Imagination/PowerVR](http://blog.imgtec.com/?s=Vulkan&submit=Search)
 
