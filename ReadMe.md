@@ -4,11 +4,11 @@ This is a list of resources related to learning Vulkan that I've come across.
 
 This links in this section help you understand the GPU in detail
 
-[A Trip Through the Pipeline by 
-Fabian Giesen](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+[A Trip Through the Pipeline by Fabian Giesen ](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 
 [Render Hell 2.0 by Simon Trümpler](https://simonschreibt.de/gat/renderhell/)
 
+[Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 
 #### Definitions (from Above)
 *  **Queue** : A queue onto which you submit commands that the GPU reads and executes (asynchronously).
@@ -71,9 +71,8 @@ https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
   * [GFXBench 5- Gergely Juhasz - Kishonti](https://youtu.be/EX1RKhlOYmY?t=2h3m3s)
   * [Comparing Vulkan to OpenGL ES - Barthold Lichtenbelt - NVIDIA](https://youtu.be/EX1RKhlOYmY?t=2h9m20s)
 
-### Vukan in 30 minutes
-
-https://renderdoc.org/vulkan-in-30-minutes.html
+### Articles
+* [Using the Vulkan™ Validation Layers by Daniel Rakos ](http://gpuopen.com/using-the-vulkan-validation-layers/)
 
 ### Siggraph 2015 - An Overview of Next-Generation Graphics API
 
