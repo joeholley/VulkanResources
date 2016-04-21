@@ -98,6 +98,7 @@ http://nextgenapis.realtimerendering.com/
 * [The Stardust sample application](https://github.com/GameTechDev/stardust_vulkan)  The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. 
 * [C SDL2 Window](https://github.com/corngood/SDL_vulkan)
 * [Android PowerVR](https://imgtec.com/tools/powervr-early-access-program/) - requires registration.
+* [Vulkan Code to Clear the Screen](https://gist.github.com/Overv/7a9200b0ab666004efcbde451433b039)
 
 ### Language Bindings
 * [C++](https://github.com/nvpro-pipeline/vkcpp)
