@@ -95,6 +95,7 @@ http://nextgenapis.realtimerendering.com/
 * [Google Android Samples](https://github.com/googlesamples/android-vulkan-tutorials)
 * [Google Samples](https://github.com/googlesamples/vulkan-basic-samples)  Currently just LunarG samples
 * [VKTS Samples (C++)](https://github.com/McNopper/Vulkan) Vulkan examples using VulKan ToolS (VKTS)
+* [The Stardust sample application](https://github.com/GameTechDev/stardust_vulkan)  The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. 
 * [C SDL2 Window](https://github.com/corngood/SDL_vulkan)
 * [Android PowerVR](https://imgtec.com/tools/powervr-early-access-program/) - requires registration.
 
