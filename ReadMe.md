@@ -53,7 +53,7 @@ https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
 * [Command Buffers and Syncrhonization](https://www.youtube.com/watch?v=Bu581jeyTL0)
 * [Window](https://www.youtube.com/watch?v=J87M6HdcjS0)
 * [Window Surface](https://www.youtube.com/watch?v=36Zj8fa3iyg)
-* [Swapchain](https://www.youtube.com/watch?v=3f9Qy_WMVEQ)
+* [Swapchain](https://www.youtube.com/watch?v=VQ-T1KTtb7k)
 
 ### [Tutorial](http://av.dfki.de/~jhenriques/development.html) by José Henriques
 
