@@ -55,6 +55,8 @@ https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
 * [Window Surface](https://www.youtube.com/watch?v=36Zj8fa3iyg)
 * [Swapchain](https://www.youtube.com/watch?v=3f9Qy_WMVEQ)
 
+### [Tutorial](http://av.dfki.de/~jhenriques/development.html) by José Henriques
+
 ### GDC 2016 Presentation Video
 
 * [Vulkan Part 1](https://www.youtube.com/watch?v=HM8vYJQtHpA)
