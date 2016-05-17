@@ -76,6 +76,7 @@ https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
 
 ### Articles
 * [Using the Vulkan™ Validation Layers by Daniel Rakos ](http://gpuopen.com/using-the-vulkan-validation-layers/)
+* [The most common Vulkan Mistakes by Dominik Witczak](http://gpuopen.com/slides-from-our-the-most-common-vulkan-mistakes-talk/)
 
 ### Siggraph 2015 - An Overview of Next-Generation Graphics API
 
