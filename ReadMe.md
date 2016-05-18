@@ -110,7 +110,9 @@ http://nextgenapis.realtimerendering.com/
   * [SharpVulkan](https://github.com/jwollen/SharpVulkan)
   * [Mono](https://github.com/mono/VulkanSharp)
 * [Haskell](https://github.com/expipiplus1/vulkan)
-* [D](https://github.com/ColonelThirtyTwo/dvulkan)
+* D
+  * [ErupteD](https://github.com/ParticlePeter/ErupteD)
+  * [DVulkan](https://github.com/ColonelThirtyTwo/dvulkan)
 * [Common Lisp](https://github.com/3b/cl-vulkan)
 * [Julia](https://github.com/JuliaGPU/Vulkan.jl)
 * [Rust](https://github.com/tomaka/vulkano)
