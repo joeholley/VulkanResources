@@ -126,10 +126,13 @@ http://nextgenapis.realtimerendering.com/
 * [Vulkan on Stackoverflow](http://stackoverflow.com/questions/tagged/vulkan)
 * [Vulkan on reddit](https://www.reddit.com/r/vulkan/)
 * [Awsome Vulkan](https://github.com/vinjn/awesome-vulkan) (Lots of Links)
+* [Vulkan Android API](https://developer.android.com/ndk/guides/graphics/index.html)
 
 ### Companies support Vulkan
 * [NVidia](https://developer.nvidia.com/Vulkan)
 * [AMD](http://www.amd.com/en-us/innovations/software-technologies/technologies-gaming/vulkan#)
 * [Intel](https://software.intel.com/en-us/videos/vulkan-on-intel-graphics-at-gdc-2016)
 * [Imagination/PowerVR](http://blog.imgtec.com/?s=Vulkan&submit=Search)
+* [Google](https://developer.android.com/ndk/guides/graphics/index.html)
+
 
