@@ -103,6 +103,7 @@ http://nextgenapis.realtimerendering.com/
 * [C SDL2 Window](https://github.com/corngood/SDL_vulkan)
 * [Android PowerVR](https://imgtec.com/tools/powervr-early-access-program/) - requires registration.
 * [Vulkan Code to Clear the Screen](https://gist.github.com/Overv/7a9200b0ab666004efcbde451433b039)
+* [A simple Vulkan Compute Example](http://www.duskborn.com/a-simple-vulkan-compute-example/)
 
 ### Language Bindings
 * [C++](https://github.com/nvpro-pipeline/vkcpp)
