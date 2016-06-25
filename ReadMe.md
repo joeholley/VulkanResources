@@ -129,6 +129,7 @@ http://nextgenapis.realtimerendering.com/
 * [Vulkan on reddit](https://www.reddit.com/r/vulkan/)
 * [Awsome Vulkan](https://github.com/vinjn/awesome-vulkan) (Lots of Links)
 * [Vulkan Android API](https://developer.android.com/ndk/guides/graphics/index.html)
+* [Vulkan GPU Info](http://vulkan.gpuinfo.org/)
 
 ### Companies support Vulkan
 * [NVidia](https://developer.nvidia.com/Vulkan)
