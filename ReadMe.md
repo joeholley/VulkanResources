@@ -2,27 +2,20 @@ This is a list of resources related to learning Vulkan that I've come across.
 
 ### For those who know nothing:
 
-This links in this section help you understand the GPU in detail
-
-[A Trip Through the Pipeline by Fabian Giesen ](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
-
-[Render Hell 2.0 by Simon Trümpler](https://simonschreibt.de/gat/renderhell/)
-
 [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 
-#### Definitions (from Above)
-*  **Queue** : A queue onto which you submit commands that the GPU reads and executes (asynchronously).
-*  **Semaphore** : A GPU-GPU synchronization object.
-*  **Fence** : A GPU-CPU synchronization object.
-*  **Buffer** : Linear data for use on the device.
-*  **Image** : Texture data (including dimensions & format) for use on the device.
-*  **Sampler** : A collection of state required for a shader to sample textures (format, filtering etc).
-*  **Pipeline** : A compiled collection of GPU state setting commands, shaders and other such data. (Almost) everything the GPU needs to get ready for rendering/compute work.
-*  **PipelineCache** : A cache used by the pipeline compilation process. It is used to avoid unnecessary recompilations and can be saved and restored to and from disk to speed up subsequent compilations (for instance, in subsequent runs of the application).
-*  **Swapchain** : A "ring buffer" of images offered by the platform's presentation engine (desktop compositors etc) on which the application can render and then submit for presentation.
-*  **Pool** : A fast memory allocator specifically designed for objects of some specific type (descriptors, command buffers etc).
+### Khronous Videos
 
-Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_newbies_explain_the_things/d14551a
+* [Vulkan 101](https://www.youtube.com/watch?v=iwKGmm3lw8Q)
+* [Porting to Vulkan](https://www.youtube.com/watch?v=nBfrPerknBk)
+* [Swapchains Unchained](https://www.youtube.com/watch?v=EXK_ZJwzxnQ)
+* [Command Buffers and Pipelines](https://www.youtube.com/watch?v=X8Ob_b3ANzs)
+* [Vulkan Subpasses](https://www.youtube.com/watch?v=3jJmLDKEYCU)
+* [Feeding Your Shaders](https://www.youtube.com/watch?v=Px4NW_QcjmQ)
+* [Keeping Your GPU Fed](https://www.youtube.com/watch?v=iZ3J25qsacA)
+* [Intro to SPIR V and using SPIR V Cross ](https://www.youtube.com/watch?v=XRpVwdduzgU)
+* [Asynchronous compute ](https://www.youtube.com/watch?v=XyJlYw4jpgU)
+
 
 ### Vulkan API - Companion Guide by Harry Gould 
 * [Book](https://www.gitbook.com/book/harrylovescode/vulkan-api/details)
@@ -139,3 +132,24 @@ http://nextgenapis.realtimerendering.com/
 * [Google](https://developer.android.com/ndk/guides/graphics/index.html)
 
 
+
+This links in this section help you understand the GPU in detail
+
+[A Trip Through the Pipeline by Fabian Giesen ](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+
+[Render Hell 2.0 by Simon Trümpler](https://simonschreibt.de/gat/renderhell/)
+
+
+#### Definitions (from Above)
+*  **Queue** : A queue onto which you submit commands that the GPU reads and executes (asynchronously).
+*  **Semaphore** : A GPU-GPU synchronization object.
+*  **Fence** : A GPU-CPU synchronization object.
+*  **Buffer** : Linear data for use on the device.
+*  **Image** : Texture data (including dimensions & format) for use on the device.
+*  **Sampler** : A collection of state required for a shader to sample textures (format, filtering etc).
+*  **Pipeline** : A compiled collection of GPU state setting commands, shaders and other such data. (Almost) everything the GPU needs to get ready for rendering/compute work.
+*  **PipelineCache** : A cache used by the pipeline compilation process. It is used to avoid unnecessary recompilations and can be saved and restored to and from disk to speed up subsequent compilations (for instance, in subsequent runs of the application).
+*  **Swapchain** : A "ring buffer" of images offered by the platform's presentation engine (desktop compositors etc) on which the application can render and then submit for presentation.
+*  **Pool** : A fast memory allocator specifically designed for objects of some specific type (descriptors, command buffers etc).
+
+Source: https://www.reddit.com/r/vulkan/comments/4aveyh/tutorial_request_for_newbies_explain_the_things/d14551a
