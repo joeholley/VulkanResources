@@ -16,6 +16,7 @@ This is a list of resources related to learning Vulkan that I've come across.
 * [Intro to SPIR V and using SPIR V Cross ](https://www.youtube.com/watch?v=XRpVwdduzgU)
 * [Asynchronous compute ](https://www.youtube.com/watch?v=XyJlYw4jpgU)
 
+### [Vulkan Tutorial](https://vulkan-tutorial.com/)
 
 ### Vulkan API - Companion Guide by Harry Gould 
 * [Book](https://www.gitbook.com/book/harrylovescode/vulkan-api/details)
