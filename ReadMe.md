@@ -27,6 +27,7 @@ This is a list of resources related to learning Vulkan that I've come across.
 * [Part 1](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
 * [Part 2](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
 * [Part 3](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
+* [Part 4](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-4)
 
 ### A Brief Overview of Vulkan API
 
@@ -83,6 +84,7 @@ http://nextgenapis.realtimerendering.com/
 * [C++ Examples ](https://github.com/SaschaWillems/Vulkan) by Sascha Willems
 * [C++ Examples](https://github.com/LunarG/VulkanSamples) from LunarG
 * [C++ Examples](https://github.com/Z80Fan/VulkanDemos) by Z80Fan
+* [C/Linux Tutorials](https://github.com/ShabbyX/vktut) by Shabi
 * NVidia Examples
   * ["Simple" Example](https://github.com/nvpro-samples/gl_vk_chopper)
   * [Rendering 3D With 'worker-threads'](https://github.com/nvpro-samples/gl_vk_bk3dthreaded)
