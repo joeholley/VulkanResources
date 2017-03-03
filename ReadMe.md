@@ -106,6 +106,7 @@ http://nextgenapis.realtimerendering.com/
 * C#/F#/Visual Basic
   * [SharpVulkan](https://github.com/jwollen/SharpVulkan)
   * [Mono](https://github.com/mono/VulkanSharp)
+  * [VulkanCore](https://github.com/discosultan/VulkanCore)
   * [Tanagra](https://github.com/Mervill/Tanagra)
 * [Haskell](https://github.com/expipiplus1/vulkan)
 * D
