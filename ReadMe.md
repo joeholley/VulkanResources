@@ -4,7 +4,7 @@ This is a list of resources related to learning Vulkan that I've come across.
 
 [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 
-### Khronous Videos
+### Khronos Videos
 
 * [Vulkan 101](https://www.youtube.com/watch?v=iwKGmm3lw8Q)
 * [Porting to Vulkan](https://www.youtube.com/watch?v=nBfrPerknBk)
@@ -64,7 +64,7 @@ https://www.toptal.com/api-developers/a-brief-overview-of-vulkan-api
   * [LunarG SDK - Karan Ghavam - LunarG](https://youtu.be/EX1RKhlOYmY?t=17m53s)
   * [A Next Gen Engine Design - Dan Baker - Oxide Games](https://youtu.be/EX1RKhlOYmY?t=42m27s)
   * [Performance Lessons Porting Source 2 Engine to Vulkan - Dan Ginsberg - Valve](https://youtu.be/EX1RKhlOYmY?t=1h14m31s)
-  * [Vulan does Retro - libRetro - Hans-Kristian Arntzen](https://youtu.be/EX1RKhlOYmY?t=1h41m13s)
+  * [Vulkan does Retro - libRetro - Hans-Kristian Arntzen](https://youtu.be/EX1RKhlOYmY?t=1h41m13s)
   * [Porting Cinder to Vulkan- Hai Nguyen - Google - Art Copy and Code Project](https://youtu.be/EX1RKhlOYmY?t=1h49m54s)
   * [GFXBench 5- Gergely Juhasz - Kishonti](https://youtu.be/EX1RKhlOYmY?t=2h3m3s)
   * [Comparing Vulkan to OpenGL ES - Barthold Lichtenbelt - NVIDIA](https://youtu.be/EX1RKhlOYmY?t=2h9m20s)
